@@ -2,16 +2,18 @@
 
 ## One-dimensional function
 
-$f(x) = xsin(10\pi x) + 2$                 $x \in [-1, 2]$
+Function
+
+![function](https://raw.githubusercontent.com/Holmeyoung/genetic_algorithm/master/One-dimensional%20function/function.png)
 
 
 
 Keep top n
 
-![keep]()
+![keep](https://raw.githubusercontent.com/Holmeyoung/genetic_algorithm/master/One-dimensional%20function/keep_n.gif)
 
 
 
-Don't keep top n
+No keep top n
 
-![no keep]()
+![no keep](https://raw.githubusercontent.com/Holmeyoung/genetic_algorithm/master/One-dimensional%20function/no_keep_n.gif)
